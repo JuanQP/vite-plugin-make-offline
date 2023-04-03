@@ -7,6 +7,10 @@
   "types": "dist/index.d.ts",
   "type": "module",
   "files": ["dist/**/*", "README.md", "package.json"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JuanQP/vite-plugin-make-offline.git"
+  },
   "scripts": {
     "prepublish": "tsc",
     "build": "tsc",
