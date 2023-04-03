@@ -71,7 +71,7 @@ npm run build
 
 If you go to `dist/index.html` and try to open it in your browser you will get a CORS error...
 
-IMAGE
+![image](https://user-images.githubusercontent.com/11776905/229627736-ed6201cb-712d-49e4-88ab-e68e0d37c1a0.png)
 
 We need to build our project as a `iife` (*Immediately Invoked Function Expression*) and then make the paths of our assets relative to the location where this `index.html` is located.
 
