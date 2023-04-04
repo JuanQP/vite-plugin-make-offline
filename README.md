@@ -9,7 +9,7 @@ If you just want to open your compiled `index.html` because you want to use it *
 ### How to use it
 
 ```sh
-npm -D install vite-plugin-make-offline
+npm install -D vite-plugin-make-offline
 ```
 
 In your `vite.config.ts` you can use it like this:
