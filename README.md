@@ -94,3 +94,4 @@ npm run build-offline
 ### Caveats
 
 * If you need to use `react-router-dom`, because of how it works, your router must be a `HashRouter`, not a `BrowserRouter`
+* Because of how `iife` works ([more info here](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)), **this plugin doesn't work with code splitting**
