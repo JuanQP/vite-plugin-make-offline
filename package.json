@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-make-offline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make your built index.html offline.",
   "keywords": ["vite-plugin", "offline", "react", "build", "dist"],
   "main": "dist/index.js",
